@@ -1,0 +1,18 @@
+Questions and Answers Related to Java
+
+1) What is JAVA?
+Answer: Java is a high-level programming language and is platform-independent.
+
+2) What are the features of Object-oriented JAVA?
+Answer: Features of Object-oriented Java are as follows:
+Inheritance
+Encapsulation
+Polymorphism
+Abstraction
+
+3) Name the Java IDE’s?
+Answer: Eclipse and NetBeans are the IDE’s of JAVA.
+
+4) How does Java enable high performance?
+Answer: Java uses Just In Time compiler to enable high performance. It is used to convert the instructions into bytecodes.
+
